@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @LiamSkirrow
+<!-- - 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
+
+I'm an IC (chip) design intern at Perceptia Devices Australia, who likes writing code every now and then. Feel free to send me an email at skirrowliam@gmail.com if you'd like to get in touch.
+
+<!---
+LiamSkirrow/LiamSkirrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
