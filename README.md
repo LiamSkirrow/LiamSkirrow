@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 --->
 
-I'm an IC (chip) design engineer, who likes writing code every now and then. Most of my projects revolve around writing Verilog for FPGAs or ASICs. I can be reached at skirrowliam@gmail.com
+I'm interested in digital design, using things like Verilog and Chisel.
