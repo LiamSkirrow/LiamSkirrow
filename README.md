@@ -1,3 +1,3 @@
-I like digital design for ASICs and software engineering.
+I like software and digital design for ASICs.
 
 Email: skirrowliam@gmail.com
